@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "birthdate": "1985-03-10T00:00:00.000Z",
+      "gender": "Male",
+      "addressId": 1,
+      "email": "john.doe@example.com"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "birthdate": "1990-07-22T00:00:00.000Z",
+      "gender": "Female",
+      "addressId": 1,
+      "email": "jane.smith@example.com"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "birthdate": null,
+      "gender": null,
+      "addressId": 1,
+      "email": "alice.johnson@example.com"
+    }
+  ]
+}

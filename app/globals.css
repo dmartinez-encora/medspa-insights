@@ -1,0 +1,35 @@
+:root {
+  /* Should match moxie_suite_ui/config/mui/colorPalette.ts */
+  --moxie-violet-90: #8a1d96;
+  --moxie-gray-50: #aeaeb7;
+  --moxie-error-color: #d21a29;
+  --moxie-primary-color: #8a1d96;
+}
+
+#__next {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+a,
+a:visited {
+  text-decoration: initial;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
